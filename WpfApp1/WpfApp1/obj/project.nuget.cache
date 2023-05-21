@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WG8vpKHzZTLG0/ea5JNdK4wDVler6fwGDX8WHXzArHiKzMgWTNAxYpZ4JnIUu/YvM6388YG52/fNqqW+PtPoUA==",
+  "success": true,
+  "projectFilePath": "C:\\AllHere\\Programming\\C#\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimazda\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\dimazda\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\dimazda\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
